@@ -30,10 +30,9 @@ Utiliser de stratégie pour atteindre son objectif.
 
 Le stratégie est ce qu'on veut faire et la direction opérationnelle est comment on va le faire.
 
----
-
 Voir les livres de Marcel Mauss.
 
+---
 
 ### Etre manager c'est considérer son équipe comme un système complexe. Un système complexe est aussi fort que son maillon le plus faible.
 
@@ -78,3 +77,21 @@ Souffrance au travail, voir "Souffrance en France" de Christophe Déjour. Voir l
 ### Identifier les grands débats et enjeux sociétaux que tout manager doit pouvoir traiter et sur lesquels communiquer.
 Un manager doit avoir de la culture générale. Essayer de stocker de manière dynamique des éléments de connaissance.
 Un manager doit avoir un couteau Suisse.
+
+### Préparer ses idées pour s'exprimer à l'oral avec efficacité, sur un sujet en lien avec les grands sujets contemporains
+
+## Objectifs d'apprentissage
+
+### Identifier, dans la masse d'information disponibles, les éléments pertinents pour développer une culture de l'actualité (culture générale) et une réflexion critique (l'information n'étant pas le savoir)
+
+### Utiliser l'esprit philosophique pour mener à bien une réflexion critique, méthodique et constructive
+
+### Faire le lien entre les différents niveaux logiques en partant du micro vers le macro : métier, monde du travail, économie, société, devenir de l'homme en lien avec la nature...
+
+### Appréhender les concepts philosophiques toujours d'actualité, qui répondent aux grands enjeux contemporains (comme la notion d'humanisme chez Montaigne ou celle de liberté et de responsabilité développée par les philosophes des lumières, ou bien encore de technique (Heidegger), aliénation (Marx),...) et qui sont pertinents pour débattre de l'écologie, du transhumanisme, de l'économie durable ou collaborative, de l'uberisation, de la robotisation et de l'intelligence artificielle, de l'impact des réseaux sociaux
+
+---
+![Plus on en sait, moins on est heureux ?](https://qph.cf2.quoracdn.net/main-qimg-be47f4169ad8769f9fe714cd4b1eddfa.webp)
+_Plus on en sait, moins on est heureux ?_
+
+Comment communiquer ?
