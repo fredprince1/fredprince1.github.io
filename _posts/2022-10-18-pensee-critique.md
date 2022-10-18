@@ -111,5 +111,10 @@ Lire "Surveiller et punir" de Michel Foucault. Voir ce qu'est un système panopt
 
 ## Introduction du concept de pensée critique
 
-Avoir un esprit critique revient à dire qu'aucune affirmation
+- Définir les termes d'une question (reformuler aide)
+- Emergence de la problématique
+- "Du coup" ça craint
+
+Infraverbal et paraverbal
+
 
