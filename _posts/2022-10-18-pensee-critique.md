@@ -103,6 +103,8 @@ https://antilla-martinique.com/le-qi-moyen-de-la-population-mondiale-est-en-bais
 
 Le pouvoir doit être constant et invisible.
 
-Lire "Surveiller et punir" de Michel Foucault
+Lire "Surveiller et punir" de Michel Foucault. Voir ce qu'est un système panoptique.
+"La violence et le sacré" de René Girard.
+"Le panopticon" de Bentam.
 
 
