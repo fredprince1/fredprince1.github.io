@@ -101,6 +101,8 @@ Recruter, c'est intégrer des compétences dans un système.
 
 https://antilla-martinique.com/le-qi-moyen-de-la-population-mondiale-est-en-baisse/?cn-reloaded=1
 
-s
+Le pouvoir doit être constant et invisible.
+
+Lire "Surveiller et punir" de Michel Foucault
 
 

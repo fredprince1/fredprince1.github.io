@@ -9,5 +9,3 @@ tags: [management, teambuilding]
 
 #### Développer les ventes d'un nouveau produit en convaincant un investisseurs.
 #### Cet investisseur vous demande de lui présenter les 4 aspects de votre produit.
-
-S
