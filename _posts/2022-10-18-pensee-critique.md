@@ -5,7 +5,7 @@ categories: [cesi, cours, 1ère année]
 tags: [management, pensée, ledoux]
 ---
 
-### Franck LEDOUX
+### Intervenant Franck LEDOUX
 
 Etre une équipe c'est avoir une même définition d'une même situation. Exemple de l'america's cup et d'un "équipage".
 
@@ -74,3 +74,7 @@ La norme génère la déviance (Howard Decker "Outsider") (exemple passage 90 à
 Pas de réunion sans ordre du jour ni compte-rendu de réunion accessible à tous les participants.
 
 Souffrance au travail, voir "Souffrance en France" de Christophe Déjour. Voir la psycopathologie du travail. Toutes ces notions doivent entrer dans notre boite à outil. La soumission librement consentie.
+
+### Identifier les grands débats et enjeux sociétaux que tout manager doit pouvoir traiter et sur lesquels communiquer.
+Un manager doit avoir de la culture générale. Essayer de stocker de manière dynamique des éléments de connaissance.
+Un manager doit avoir un couteau Suisse.
