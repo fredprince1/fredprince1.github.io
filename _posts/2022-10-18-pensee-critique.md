@@ -117,4 +117,6 @@ Lire "Surveiller et punir" de Michel Foucault. Voir ce qu'est un système panopt
 
 Infraverbal et paraverbal
 
+Voir l'entrepreneur de morale de Charles Becker
 
+Spinoza : 

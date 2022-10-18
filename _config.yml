@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Site des cours de Manager en Infrastructure et Cybersécurité des Systèmes d'Information
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://https://fredprince1.github.io'
+url: ''
 
 github:
   username: fredprince1             # change to your github username
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Frédéric Prince
+  name: Frederic Prince
   email: micsi@fredprince.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
