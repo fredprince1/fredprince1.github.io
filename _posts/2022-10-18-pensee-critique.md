@@ -107,4 +107,9 @@ Lire "Surveiller et punir" de Michel Foucault. Voir ce qu'est un système panopt
 "La violence et le sacré" de René Girard.
 "Le panopticon" de Bentam.
 
+---
+
+## Introduction du concept de pensée critique
+
+Avoir un esprit critique revient à dire qu'aucune affirmation
 
