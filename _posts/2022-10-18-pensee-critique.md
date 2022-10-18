@@ -47,4 +47,21 @@ Voir les livres de Marcel Mauss.
 - Influence sur son environnement
 
 ### Esprit philosophique et portée sur les grands enjeux du monde contemporain
+- Définition des termes d'une question
+- Emergence de la problématique
+- Plan dialectique
+- Plan progressif
+- Philosophes
 
+## Objectifs opérationnels
+
+### Prendre du recul et de la hauteur pour avoir une vue panoramique sur les relations entre son métier et les enjeux sociétaux
+### Créer du sens pour son travail opérationnel, la valorisation du travail et dans la reconnaissance de l'autre.
+### Développer une vision à partir de son métier et l'aptitude à la partager
+La vision est une construction, elle est le fruit d'un travail.
+Le hasard n'est que la somme de nos ignorances ©Mel Gibson dans l'Arme Fatale 1. Réfléchir à l'impact de nos actes.
+Manager c'est avoir un impact qui est plus large que les éléments du système. Evaluer, prévoir, anticiper.
+
+
+Un manager est un cadre, les mots sont importants, s'imaginer un cadre physique. La direction donne une...direction.
+La norme génère la déviance (Howard Decker "Outsider") (exemple passage 90 à 80km/h, celui qui este à 90km/h sort du cadre).
