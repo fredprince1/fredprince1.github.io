@@ -16,7 +16,7 @@ lang: fr
 prefer_datetime_locale: fr
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Eurpe/Paris
+timezone: Europe/Paris
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -29,10 +29,10 @@ description: >-                        # used by seo meta and the atom feed
   Site des cours de Manager en Infrastructure et Cybersécurité des Systèmes d'Information
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://fredprince1.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: fredprince1             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
