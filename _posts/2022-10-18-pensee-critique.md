@@ -94,7 +94,7 @@ Un manager doit avoir un couteau Suisse.
 ![Plus on en sait, moins on est heureux ?](https://qph.cf2.quoracdn.net/main-qimg-be47f4169ad8769f9fe714cd4b1eddfa.webp)
 _Plus on en sait, moins on est heureux ?_
 
-Comment communiquer ? Quelle quantité d'information ? Quelles informations ?
+Comment communiquer ? Quelle quantité d'information ? Quelles informations ??
 
 
 Recruter, c'est intégrer des compétences dans un système.
