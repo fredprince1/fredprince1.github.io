@@ -37,3 +37,14 @@ Voir les livres de Marcel Mauss.
 
 ### Etre manager c'est considérer son équipe comme un système complexe. Un système complexe est aussi fort que son maillon le plus faible.
 
+## Thèmes du programme
+### Quid des grands débats et enjeux du monde contemporain
+- Grand enjeux et sujets contemporains.
+- Catégories et périmètres
+
+### Prise de hauteur et de recul
+- Interdépendance dans un groupe
+- Influence sur son environnement
+
+### Esprit philosophique et portée sur les grands enjeux du monde contemporain
+
