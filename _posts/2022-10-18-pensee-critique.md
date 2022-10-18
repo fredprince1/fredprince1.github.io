@@ -5,7 +5,7 @@ categories: [cesi, cours, 1ère année]
 tags: [management, pensée, ledoux]
 ---
 
-### Intervenant Franck LEDOUX
+### Pensée critique, intervenant Franck LEDOUX
 
 Etre une équipe c'est avoir une même définition d'une même situation. Exemple de l'america's cup et d'un "équipage".
 
@@ -94,4 +94,11 @@ Un manager doit avoir un couteau Suisse.
 ![Plus on en sait, moins on est heureux ?](https://qph.cf2.quoracdn.net/main-qimg-be47f4169ad8769f9fe714cd4b1eddfa.webp)
 _Plus on en sait, moins on est heureux ?_
 
-Comment communiquer ?
+Comment communiquer ? Quelle quantité d'information ? Quelles informations ?
+
+
+Recruter, c'est intégrer des compétences dans un système.
+
+https://antilla-martinique.com/le-qi-moyen-de-la-population-mondiale-est-en-baisse/?cn-reloaded=1
+
+
