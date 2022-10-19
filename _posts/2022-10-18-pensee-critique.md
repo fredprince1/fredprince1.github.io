@@ -192,6 +192,7 @@ Lire "L'analyse stratégique" de Michel Crozier.
 
 ### L'esprit critique
 - Pensée autonome
+- Lucidité/connaissances
 
 
 
