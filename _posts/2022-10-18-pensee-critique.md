@@ -190,5 +190,8 @@ Lire "L'analyse stratégique" de Michel Crozier.
     - Les éléments fallcieux (la logique semble correcte mais n'a pas de sens)
     - La preuve sociale (on croit plus facilement les informations répétées)
 
+### L'esprit critique
+- Pensée autonome
+
 
 
