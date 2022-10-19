@@ -115,8 +115,17 @@ Lire "Surveiller et punir" de Michel Foucault. Voir ce qu'est un système panopt
 - Emergence de la problématique
 - "Du coup" ça craint
 
-Infraverbal et paraverbal
+Voir infraverbal et paraverbal.
 
-Voir l'entrepreneur de morale de Charles Becker
+Voir l'entrepreneur de morale de Charles Becker.
 
-Spinoza : 
+---
+Différencier le statut, la fonction et le rôle.
+- Statut : stagiaires, intérimaires, alternant, CDD, CDI. C'est important pour poser un diagnostique sur une organisation et une équipe quand on arrive en poste. Le rôle du cadre c'est d'organiser le travail. Ne pas sous-estimer les gens. Apprendre à temporiser et différer les retours, individualiser pour féliciter ou recadrer. Ne pas faire perdre la face aux collaborateurs, cela mène à la *violence* (pas forcément phyisque).
+- Fonction : la fiche de poste.
+- Rôle : plus informel que la fonction.
+
+Le soucis du détail est important. Entrer dans une boite c'est entrer dans un champ de mine, il faut passer du temps à comprendre.
+Voir "Comment pensent les institutions" de marie Douglas.
+
+Si problème il y a, essayer d'associer les acteurs à la prise de décision. L'arrêt de travail est souvent une "réponse" des salariés à un changement non accepté ou mal amené.

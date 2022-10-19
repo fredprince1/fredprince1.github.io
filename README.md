@@ -1,1 +1,1 @@
-Notes MICSI vers github pages.
+Notes MICSI vers github-pages.
