@@ -23,7 +23,7 @@ timezone: Europe/Paris
 
 title: MICSI 2022-2024                          # the main title
 
-tagline: Cours et autres de la formation MICSI au CESI Reims   # it will display as the sub-title
+tagline: Cours (et autres) de la formation MICSI au CESI Reims   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Site des cours de Manager en Infrastructure et Cybersécurité des Systèmes d'Information

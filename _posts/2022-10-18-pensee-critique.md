@@ -194,6 +194,9 @@ Lire "L'analyse stratégique" de Michel Crozier.
 - Pensée autonome
 - Lucidité/connaissances
 - Modestie/connaissances (la construction sociale de la réalité)
-- Autonomie du raisonnement
+- Autonomie du raisonnement (avoir conscience des influences)
+- Distinction des faits et des interprétations
+- Prise d'information
+
 
 
