@@ -193,6 +193,7 @@ Lire "L'analyse stratégique" de Michel Crozier.
 ### L'esprit critique
 - Pensée autonome
 - Lucidité/connaissances
-
+- Modestie/connaissances (la construction sociale de la réalité)
+- Autonomie du raisonnement
 
 
