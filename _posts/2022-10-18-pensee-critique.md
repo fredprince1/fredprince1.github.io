@@ -123,9 +123,20 @@ Voir l'entrepreneur de morale de Charles Becker.
 Différencier le statut, la fonction et le rôle.
 - Statut : stagiaires, intérimaires, alternant, CDD, CDI. C'est important pour poser un diagnostique sur une organisation et une équipe quand on arrive en poste. Le rôle du cadre c'est d'organiser le travail. Ne pas sous-estimer les gens. Apprendre à temporiser et différer les retours, individualiser pour féliciter ou recadrer. Ne pas faire perdre la face aux collaborateurs, cela mène à la *violence* (pas forcément phyisque).
 - Fonction : la fiche de poste.
-- Rôle : plus informel que la fonction.
+- Rôle : plus informel que la fonction. Peut être l'intérpretation de la fonction.
 
 Le soucis du détail est important. Entrer dans une boite c'est entrer dans un champ de mine, il faut passer du temps à comprendre.
 Voir "Comment pensent les institutions" de marie Douglas.
 
 Si problème il y a, essayer d'associer les acteurs à la prise de décision. L'arrêt de travail est souvent une "réponse" des salariés à un changement non accepté ou mal amené.
+>Rien n'est donné, rien ne va de soit, tout se construit.
+---
+Une solution décidée ensemble sera par nature plus opérationnelle.
+
+Voir Anna Arendt "L'homme moderne"
+
+Marx, "Le manifeste". Observateur de la commune de Paris.
+
+Travailler et communiquer sur les "petites victoires" est important. *Narcicisez/re-narcicisez* le groupe.
+Une équipe est un groupe humain qui a son identité propre, sa culture. C'est une petite plante fragile qui s'entretient et se nourrit. La culture d'entreprise ne se décrète pas, elle se constate.
+
