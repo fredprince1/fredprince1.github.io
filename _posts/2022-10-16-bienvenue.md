@@ -7,5 +7,5 @@ tags: [micsi, cesi]
 # Bienvenue
 ## Page des cours de la formation MICSI 2022-2024 au CESI de Reims
 
-Retrouvez les cours MICSI CESI promo 2022-2024, mis à jour *presque* temps réel.
+Retrouvez les cours MICSI CESI promo 2022-2024, mis à jour en *presque* temps réel.
 

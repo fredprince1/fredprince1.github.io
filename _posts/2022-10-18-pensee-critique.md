@@ -5,7 +5,7 @@ categories: [cesi, cours, 1ère année]
 tags: [management, pensée, ledoux]
 ---
 
-### Pensée critique, intervenant Franck LEDOUX
+### Pensée critique, intervenant Franck LEDOUX, notes de Frédéric Prince
 
 Etre une équipe c'est avoir une même définition d'une même situation. Exemple de l'america's cup et d'un "équipage".
 
@@ -15,7 +15,7 @@ Lire "La construction sociale de la réalité".
 
 Dans le travail, exclure le plaisir et la confiance.
 
-Etre dans une posture de manager, c'est faire en sorte d'exclure la confiance, et la remplacer par le suivi, le reporting, la gestion des risques. La confiance et un fil de crystal qui peut se briser. Il faut avoir des outils pour remplacer la confiance, car la confiance dans le travail est un mauvais chemin à prendre.
+Etre dans une posture de manager, c'est faire en sorte d'exclure la confiance, et la remplacer par le suivi, le reporting, la gestion des risques. La confiance est un fil de crystal qui peut se briser. Il faut avoir des outils pour remplacer la confiance, car la confiance dans le travail est un mauvais chemin à prendre.
 
 De la même manière, prendre du plaisir au travail n'existe pas. On peut avoir des satisfactions, mais entendre parler de "plaisir" au boulot doit nous rendre méfiant.
 
@@ -191,12 +191,40 @@ Lire "L'analyse stratégique" de Michel Crozier.
     - La preuve sociale (on croit plus facilement les informations répétées)
 
 ### L'esprit critique
-- Pensée autonome
-- Lucidité/connaissances
-- Modestie/connaissances (la construction sociale de la réalité)
+- Pensée autonome.
+- Lucidité/connaissances.
+- Modestie/connaissances (la construction sociale de la réalité).
 - Autonomie du raisonnement (avoir conscience des influences)
 - Distinction des faits et des interprétations
-- Prise d'information
+- Prise d'information (quels sont les canaux par lesquels je peux prendre de l'information ? Ca se formalise)
+- Qualité de l'écoute. Une fois que la parole est sortie, elle ne vous appartient plus. Faire attation à ce qu'on dit.
+- Confrontation des intérpetations. Permettre un débat contradictoire.
+- Evaluer les intérpretations.
+- Etre curieux !
 
+Voir Robert Castel "La métamorphose de la question sociale".
 
+---
+
+### Organisation 
+Organiser, c'est mettre un certain ordre dans un stock de ressources diverses pour en faire un instrument ou un outil au service d'une volonté poursuivant réalisation d'un projet.
+
+Dans toute organisation se posent les problèmes de coopération et de hiérarchie.
+
+### Acteur
+individuel ou collectif, l'acteur désigne en général le support des conduites sociales. L'action est envisagée comme la manifestation de structures ou d'interactions. Les sociologues peuvent parler d'acteur (Goffman) ou de sujet (Foucault), au fond, c'est la notion d'agent (Bourdieu) qui s'impose. 
+
+HS : (voir Jean-Pierre Lebrun "Un monde sans limite")
+
+### Pouvoir
+Le pouvoir est une relation asymétrique entre aux moins deux acteurs. Max Weber le définit comme la capacité de A d'obtenir que B fasse ce que B n'aurait pas fait de lui même.
+
+Deux points sont explicites dans la définition de Max Weber :
+d'abord, le comportement de B dépend de celui de A. B répond aux initiatives, aux désirs, ou même plus généralement à la manière d'être de A.
+
+En substance, le pouvoir c'est toujours la capacité pour A d'obtenir quelque chose de B, sans que B puisse s'y soustraire.
+
+---
+
+Faire un état d'une question "à la Socrates" avec l'objectif de convaincre l'audience d'un point précis.
 
