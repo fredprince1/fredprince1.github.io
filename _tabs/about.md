@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Mes infos, mon parcours
-{: .prompt-tip }
+Mes infos, mon parcours
+
