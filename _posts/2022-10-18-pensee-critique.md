@@ -140,3 +140,55 @@ Marx, "Le manifeste". Observateur de la commune de Paris.
 Travailler et communiquer sur les "petites victoires" est important. *Narcicisez/re-narcicisez* le groupe.
 Une équipe est un groupe humain qui a son identité propre, sa culture. C'est une petite plante fragile qui s'entretient et se nourrit. La culture d'entreprise ne se décrète pas, elle se constate.
 
+La dialectique est un art du dialogue, dont le but est de parvenir au vrai gràce à une mise à l'épreuve des arguments en présence.
+
+### La méthode Socratique
+1. Poser une question directe, qui peut sembler banale ou innocente.
+2. Laisser un interlocuteur présent y répondre, le plus souvent avec une définition qui relève du sens commun.
+3. Présenter un contre-exemple qui ne va pas dans le sens de la définition de l'interlocuteur.
+4. Poursuivre la discussion jusqu'à une définition acceptable ou admettre que le sujet est plus complexe qu'anticipé.
+
+### La pensée critique, concrètement
+- La pensée et l'analyse critique au service du manager : confrontation orale avec l'auditoire des points de vue présents.
+- Réalité moderne du manager.
+- Se maintenir en équilibre dans son environnement professionnel.
+
+Creuser les définitions de : organisation, acteur, pouvoir, système d'action concret.
+
+Il est primordial de considérer les faits plutôt que ses propres croyances.
+Les faits sont objectifs, les croyances sont subjectives.
+En découle une vigilance à avoir du point de vue de la nature des informations, des situations, des hitoires relatées...
+
+Avoir une feuille de route concrête. Déléguer implique un contrôle. 
+>Il est fondamentale d'accepter de ne âs tout savoir.
+
+Le notion de logique est un élément essentiel dans l'élaboration de la pensée.
+Quatre type de raisonnements :
+- Le raisonnement inductif : typiquement l'utilisation exclusive de statistiques.
+- Le raisonnement conditionnel : lié à la notion de conséquence d'un événement.
+- Le raisonnement déductif : ou syllogistique.
+- Le raisonnement par principe fondamentaux : poser la question "pourquoi ?" à l'infini, à la condition d'obtenir une réponse à chaque fois.
+
+**Lorsque l'on reçoit une donnée nouvelle, il est nécessaire de se poser des questions.**
+
+Est-ce une information fiable ?
+Y a-t-il des aspects cachés ?
+Quels sont les intérêts en jeu ?
+Quels sont les risques liés ?
+
+Cela revient à démonter toute idée reçue. A se mettre à distance en essyant de comprendre la logique interne de cette nouvelle donnée.
+
+Lire "L'analyse stratégique" de Michel Crozier.
+"Asiles" d'Erving Hoffman : on ne peut pas suprimer toute liberté à un acteur dans un système.
+
+### Etre attentif et vigilant aux facteurs limitatifs
+- Ses propres traits de caractère.
+- Son rapport à l'effort.
+- Maitriser ses propres émotions.
+- Les biais cognitifs.
+    - Les biais d'autorité (le dentiste qui recommande un dentifrice)
+    - Les éléments fallcieux (la logique semble correcte mais n'a pas de sens)
+    - La preuve sociale (on croit plus facilement les informations répétées)
+
+
+
