@@ -1,11 +1,12 @@
 ---
 title: Pensée critique
-date: 2022-10-17 8:30:00 +0100
+date: 2022-10-18 8:30:00 +0100
 categories: [cesi, cours, 1ère année]
 tags: [management, pensée, ledoux]
 ---
 
-### Pensée critique, intervenant Franck LEDOUX, notes de Frédéric Prince
+# Pensée critique
+#### Intervenant Franck LEDOUX, notes de Frédéric Prince
 
 Etre une équipe c'est avoir une même définition d'une même situation. Exemple de l'america's cup et d'un "équipage".
 

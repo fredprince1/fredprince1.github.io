@@ -5,6 +5,4 @@ categories: [cesi, cours, 1ère année]
 tags: [management, teambuilding]
 ---
 
-# Code promo MICSI : redn205
-
 Développer les ventes d'un nouveau produit en convaincant un investisseur. Cet investisseur vous demande de lui présenter les 4 aspects de votre produit.
