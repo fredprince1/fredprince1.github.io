@@ -2,7 +2,7 @@
 title: Culture thématique
 date: 2022-10-17 13:30:00 +0100
 categories: [cesi, cours, 1ère année, MICSI]
-tags: [culture thématique, gracia, grand oral]
+tags: [culture thématique, garcia, grand oral]
 ---
 
 ### Culture thématique et préparation au Grand Oral, intervenant Yohann Garcia, notes de Frédéric Prince
