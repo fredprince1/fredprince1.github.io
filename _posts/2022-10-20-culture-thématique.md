@@ -51,13 +51,34 @@ Objectif : culture métier, esprit d'ouverture, développement du regard critiqu
 Essayer à la fin de chaque thématique de confronter nos opinions avec celles d'un expert.
 
 Définir un plan type pour chacune des thématiques.
- - Définition des termes.
- - Enjeux, tenants aboutissants.
- - ...
- - Expérience professionnelle.
+- Définition des termes.
+- Enjeux, tenants aboutissants.
+- ...
+- Expérience professionnelle.
 - Retour d'expérience.
 - Mon point de vue.
 
 Préparer la façon dont on va chercher nos informations, donc préparer nos sources.
 
 >*L'échec n'existe pas, toute expérience est un parcours qui renforce votre apprentissage*
+
+### Objectifs
+- Partager
+- Débattre
+- Profiter les informations du formateur
+- Profiter des remarques constructives des membres de ma promotion
+
+*Thème tiré au sort* :
+Quelle question vous poserait une direction générale sur le thème choisi ? = problématique. Une question bien posée vous permettant de répondre stratégiquement.
+
+*Le périmètre et son contexte* :
+Privilégier un paramètre maitrisé, "le terrain de jeu et l'analyse".
+
+*Apports théoriques* :
+Ce que vous savez sur le sujet + Benchmark : ce que vous observez sur le sujet (terrain et via notre réseau). Votre vécu, ce qu'il se passe en face de chez vous, ce que vous avez lu.
+
+*Votre réponse/votre position stratégique* : argumentée, expliquée, la réponse à la question posée par une DG. Votre position de manager qui convaint la DG.
+
+*Votre réponse opérationnelle* : Le "comment faire". Avec idéalement la faculté de prouver que c'est applicable en entreprise (vous pouvez envisager les préconisations sur la base de votre situation professionnelle par exemple). Votre position de DRH qui contraint les opérationnels (salariés, managers, équipe RH...)
+
+
