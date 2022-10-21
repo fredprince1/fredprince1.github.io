@@ -1,6 +1,6 @@
 ---
 title: Design des infrastructures réseaux
-date: 2022-10-20 13:30:00 +0100
+date: 2022-10-21 8:30:00 +0100
 categories: [cesi, cours, 1ère année, MICSI]
 tags: [infrastructures, reseaux, rosselle, grand oral]
 ---
@@ -55,6 +55,25 @@ _Une bombe de Turing, plusieurs Enigma en parallèle_
 _L'ENIAC, 150 000 watts..._
 
 A l'époque, le programme Apollo veut envoyer des hommes sur la Lune. C'est envoyer un "missile" et calculer sa trajectoire.
+
+Voir stéganographie et langue des oiseaux.
+
+1971 - Arpanet
+1974 - Intel commercial le premier processeur 4004 à 108 Khz
+1974 - Invention de la carte à puce
+
+Invention du premier disque dur, avec par exemple le RAMAC 305, une tonne, 5 Mo de stockage.
+
+Les nerds du club de trains éléctriques du MIT inventent l'Altair 8080, 8 Ko de ram et lecteur de disquette.
+
+Puis Steve Wozniak se fabrique l'Apple 1.
+
+![L'Apple 1](https://i0.wp.com/www.apple2history.org/wp-content/uploads/2008/11/applei.jpg?ssl=1)
+_L'Apple 1, vendu 666$_
+
+L'Apple II est une réussite commerciale, vendu de 1977 à 1988. IBM cherche à répliquer avec l'IBM PC. Mais ils n'ont pas les compétences en interne pour développer l'OS et lance un appel d'offre. Bill Gates gagne le marché sans avoir d'OS, mais achète un noyau et développe juste un "shell". Il demande à pouvoir vendre son OS indépendemment, ce qu'IBM accepte en pensant faire une bonne affaire.
+On connait la suite.
+
 
 
 
