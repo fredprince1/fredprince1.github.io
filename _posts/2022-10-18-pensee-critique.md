@@ -5,7 +5,6 @@ categories: [cesi, cours, 1ère année]
 tags: [management, pensée, ledoux]
 ---
 
-# Pensée critique
 #### Intervenant Franck LEDOUX, notes de Frédéric Prince
 
 Etre une équipe c'est avoir une même définition d'une même situation. Exemple de l'america's cup et d'un "équipage".

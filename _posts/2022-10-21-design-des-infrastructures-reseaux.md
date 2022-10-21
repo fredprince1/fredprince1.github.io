@@ -5,7 +5,6 @@ categories: [cesi, cours, 1ère année, MICSI]
 tags: [infrastructures, reseaux, rosselle, grand oral]
 ---
 
-# Design des infrastructures réseaux
 #### Intervenant Grégory Rosselle, notes de Frédéric Prince
 
 Comprendre les stratégies d'entreprise, les parties financières, faire le lien entre le métier et la technique. Etre capable de se projeter à long terme.
@@ -86,3 +85,7 @@ Voir et lire Andrew Tanenbaum.
 ---
 
 Voir "Le dessous des cartes" sur les cables sous-marins.
+
+--- 
+
+Penser à la clause de réversibilité.
