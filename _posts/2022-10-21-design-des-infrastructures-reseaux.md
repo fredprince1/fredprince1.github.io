@@ -59,7 +59,7 @@ A l'époque, le programme Apollo veut envoyer des hommes sur la Lune. C'est envo
 Voir stéganographie et langue des oiseaux.
 
 1971 - Arpanet
-1974 - Intel commercial le premier processeur 4004 à 108 Khz
+1974 - Intel vend le premier processeur 4004 à 108 Khz
 1974 - Invention de la carte à puce
 
 Invention du premier disque dur, avec par exemple le RAMAC 305, une tonne, 5 Mo de stockage.
@@ -71,10 +71,18 @@ Puis Steve Wozniak se fabrique l'Apple 1.
 ![L'Apple 1](https://i0.wp.com/www.apple2history.org/wp-content/uploads/2008/11/applei.jpg?ssl=1)
 _L'Apple 1, vendu 666$_
 
-L'Apple II est une réussite commerciale, vendu de 1977 à 1988. IBM cherche à répliquer avec l'IBM PC. Mais ils n'ont pas les compétences en interne pour développer l'OS et lance un appel d'offre. Bill Gates gagne le marché sans avoir d'OS, mais achète un noyau et développe juste un "shell". Il demande à pouvoir vendre son OS indépendemment, ce qu'IBM accepte en pensant faire une bonne affaire.
+L'Apple II est une réussite commerciale, vendu de 1977 à 1988. IBM cherche à répliquer avec l'IBM PC. Mais ils n'ont pas les compétences en interne pour développer l'OS et lancent un appel d'offre. Bill Gates remporte le marché sans avoir d'OS, mais achète un noyau et développe juste un "shell". Il demande à pouvoir vendre son OS indépendemment, ce qu'IBM accepte en pensant faire une bonne affaire.
 On connait la suite.
 
+Voir et lire Andrew Tanenbaum.
 
+### Architecture client/serveur
+**Architecture centralisée - 1970** : l'ordinateur central effectue tous les traitements, les terminaux gèrent la saisie et l'affichage (terminaux passifs). 
 
+**Architecture décentralisée - 1980** : arrivée des PC. On dédie des machines à des applications (serveurs), et on a des clients.
 
+**Modèle peer to peer** : tout le monde est client et serveur. Devient plus efficace avec le nombre, à l'inverse du modèle client/serveur.
 
+---
+
+Voir "Le dessous des cartes" sur les cables sous-marins.
